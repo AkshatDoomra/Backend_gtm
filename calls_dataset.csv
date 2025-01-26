@@ -1,0 +1,101 @@
+id,text_snippet,labels
+1,Our data pipeline outperforms CompetitorZ and offers better budget options.,"Security, Objection, Competition"
+2,Our analytics outperforms CompetitorX and offers better discount options.,"Security, Objection"
+3,Our analytics outperforms CompetitorX and offers better discount options.,"Security, Pricing Discussion"
+4,Our data pipeline outperforms CompetitorX and offers better pricing model options.,Pricing Discussion
+5,Our AI engine outperforms CompetitorZ and offers better discount options.,"Objection, Competition, Pricing Discussion"
+6,Our AI engine outperforms CompetitorZ and offers better pricing model options.,Competition
+7,Our analytics outperforms CompetitorX and offers better budget options.,Security
+8,Our analytics outperforms CompetitorX and offers better pricing model options.,"Security, Competition"
+9,Our data pipeline outperforms CompetitorY and offers better renewal cost options.,"Security, Pricing Discussion"
+10,Our data pipeline outperforms CompetitorX and offers better budget options.,"Objection, Security"
+11,Our AI engine outperforms CompetitorY and offers better pricing model options.,"Objection, Security, Competition"
+12,Our data pipeline outperforms CompetitorY and offers better discount options.,"Security, Objection"
+13,Our analytics outperforms CompetitorX and offers better discount options.,"Objection, Competition"
+14,Our data pipeline outperforms CompetitorX and offers better discount options.,Competition
+15,Our analytics outperforms CompetitorZ and offers better pricing model options.,"Pricing Discussion, Competition"
+16,Our data pipeline outperforms CompetitorZ and offers better renewal cost options.,Pricing Discussion
+17,Our data pipeline outperforms CompetitorZ and offers better renewal cost options.,"Pricing Discussion, Objection, Security"
+18,Our AI engine outperforms CompetitorX and offers better renewal cost options.,"Objection, Pricing Discussion, Security"
+19,Our data pipeline outperforms CompetitorZ and offers better pricing model options.,Objection
+20,Our analytics outperforms CompetitorZ and offers better renewal cost options.,"Security, Competition, Objection"
+21,Our analytics outperforms CompetitorZ and offers better pricing model options.,Security
+22,Our data pipeline outperforms CompetitorY and offers better pricing model options.,"Pricing Discussion, Competition, Security"
+23,Our AI engine outperforms CompetitorY and offers better budget options.,"Pricing Discussion, Security"
+24,Our analytics outperforms CompetitorY and offers better renewal cost options.,"Security, Competition"
+25,Our data pipeline outperforms CompetitorX and offers better budget options.,"Security, Competition, Objection"
+26,Our analytics outperforms CompetitorZ and offers better renewal cost options.,Objection
+27,Our data pipeline outperforms CompetitorX and offers better pricing model options.,"Objection, Competition, Security"
+28,Our AI engine outperforms CompetitorZ and offers better renewal cost options.,Pricing Discussion
+29,Our AI engine outperforms CompetitorZ and offers better discount options.,Pricing Discussion
+30,Our analytics outperforms CompetitorZ and offers better budget options.,"Objection, Pricing Discussion"
+31,Our AI engine outperforms CompetitorY and offers better pricing model options.,"Security, Objection"
+32,Our data pipeline outperforms CompetitorZ and offers better discount options.,"Competition, Objection"
+33,Our data pipeline outperforms CompetitorY and offers better renewal cost options.,"Objection, Competition"
+34,Our AI engine outperforms CompetitorY and offers better pricing model options.,"Security, Competition"
+35,Our AI engine outperforms CompetitorZ and offers better budget options.,"Competition, Security"
+36,Our data pipeline outperforms CompetitorZ and offers better renewal cost options.,Security
+37,Our AI engine outperforms CompetitorZ and offers better pricing model options.,"Pricing Discussion, Objection"
+38,Our AI engine outperforms CompetitorY and offers better discount options.,"Competition, Pricing Discussion"
+39,Our analytics outperforms CompetitorX and offers better pricing model options.,"Security, Competition, Objection"
+40,Our AI engine outperforms CompetitorY and offers better pricing model options.,"Security, Objection"
+41,Our AI engine outperforms CompetitorZ and offers better discount options.,Pricing Discussion
+42,Our data pipeline outperforms CompetitorZ and offers better renewal cost options.,"Objection, Security"
+43,Our AI engine outperforms CompetitorZ and offers better renewal cost options.,Security
+44,Our AI engine outperforms CompetitorY and offers better pricing model options.,"Competition, Security"
+45,Our analytics outperforms CompetitorZ and offers better pricing model options.,"Competition, Pricing Discussion, Objection"
+46,Our AI engine outperforms CompetitorX and offers better budget options.,"Security, Pricing Discussion"
+47,Our data pipeline outperforms CompetitorZ and offers better pricing model options.,"Objection, Pricing Discussion"
+48,Our analytics outperforms CompetitorZ and offers better budget options.,Objection
+49,Our data pipeline outperforms CompetitorZ and offers better renewal cost options.,"Security, Competition, Objection"
+50,Our data pipeline outperforms CompetitorZ and offers better discount options.,"Competition, Objection, Pricing Discussion"
+51,Our analytics outperforms CompetitorZ and offers better pricing model options.,"Objection, Pricing Discussion"
+52,Our analytics outperforms CompetitorX and offers better pricing model options.,"Objection, Security, Competition"
+53,Our analytics outperforms CompetitorY and offers better budget options.,"Objection, Security, Pricing Discussion"
+54,Our analytics outperforms CompetitorY and offers better pricing model options.,"Competition, Objection"
+55,Our data pipeline outperforms CompetitorZ and offers better pricing model options.,Pricing Discussion
+56,Our AI engine outperforms CompetitorZ and offers better pricing model options.,"Pricing Discussion, Objection"
+57,Our analytics outperforms CompetitorX and offers better discount options.,"Pricing Discussion, Competition, Objection"
+58,Our data pipeline outperforms CompetitorZ and offers better budget options.,Security
+59,Our analytics outperforms CompetitorZ and offers better renewal cost options.,"Objection, Pricing Discussion"
+60,Our AI engine outperforms CompetitorX and offers better renewal cost options.,Security
+61,Our analytics outperforms CompetitorY and offers better renewal cost options.,Pricing Discussion
+62,Our AI engine outperforms CompetitorX and offers better pricing model options.,"Competition, Objection"
+63,Our AI engine outperforms CompetitorY and offers better renewal cost options.,Pricing Discussion
+64,Our analytics outperforms CompetitorZ and offers better discount options.,"Security, Objection"
+65,Our data pipeline outperforms CompetitorX and offers better budget options.,"Security, Objection, Competition"
+66,Our analytics outperforms CompetitorY and offers better discount options.,Competition
+67,Our analytics outperforms CompetitorY and offers better pricing model options.,Competition
+68,Our analytics outperforms CompetitorZ and offers better discount options.,Competition
+69,Our AI engine outperforms CompetitorX and offers better budget options.,Pricing Discussion
+70,Our data pipeline outperforms CompetitorZ and offers better pricing model options.,"Competition, Objection"
+71,Our data pipeline outperforms CompetitorZ and offers better pricing model options.,"Security, Objection"
+72,Our data pipeline outperforms CompetitorX and offers better budget options.,Pricing Discussion
+73,Our analytics outperforms CompetitorZ and offers better pricing model options.,"Objection, Pricing Discussion"
+74,Our data pipeline outperforms CompetitorZ and offers better discount options.,Competition
+75,Our data pipeline outperforms CompetitorX and offers better discount options.,Competition
+76,Our AI engine outperforms CompetitorZ and offers better discount options.,Objection
+77,Our data pipeline outperforms CompetitorY and offers better budget options.,"Security, Pricing Discussion"
+78,Our AI engine outperforms CompetitorY and offers better pricing model options.,"Objection, Security, Pricing Discussion"
+79,Our data pipeline outperforms CompetitorX and offers better renewal cost options.,"Pricing Discussion, Security, Objection"
+80,Our analytics outperforms CompetitorX and offers better renewal cost options.,Security
+81,Our data pipeline outperforms CompetitorX and offers better budget options.,"Security, Pricing Discussion, Competition"
+82,Our data pipeline outperforms CompetitorZ and offers better budget options.,"Competition, Objection, Security"
+83,Our analytics outperforms CompetitorY and offers better discount options.,Competition
+84,Our AI engine outperforms CompetitorY and offers better pricing model options.,"Objection, Pricing Discussion, Security"
+85,Our AI engine outperforms CompetitorX and offers better renewal cost options.,Pricing Discussion
+86,Our data pipeline outperforms CompetitorY and offers better discount options.,Competition
+87,Our analytics outperforms CompetitorY and offers better discount options.,"Pricing Discussion, Competition"
+88,Our analytics outperforms CompetitorX and offers better discount options.,"Pricing Discussion, Security, Objection"
+89,Our data pipeline outperforms CompetitorZ and offers better discount options.,Competition
+90,Our analytics outperforms CompetitorY and offers better renewal cost options.,"Competition, Security, Pricing Discussion"
+91,Our AI engine outperforms CompetitorZ and offers better budget options.,"Pricing Discussion, Competition, Objection"
+92,Our data pipeline outperforms CompetitorY and offers better budget options.,"Objection, Competition"
+93,Our analytics outperforms CompetitorX and offers better discount options.,Objection
+94,Our analytics outperforms CompetitorY and offers better renewal cost options.,Pricing Discussion
+95,Our analytics outperforms CompetitorY and offers better discount options.,"Objection, Security, Pricing Discussion"
+96,Our data pipeline outperforms CompetitorZ and offers better renewal cost options.,"Security, Pricing Discussion, Objection"
+97,Our data pipeline outperforms CompetitorX and offers better renewal cost options.,Security
+98,Our analytics outperforms CompetitorZ and offers better budget options.,"Competition, Pricing Discussion"
+99,Our analytics outperforms CompetitorX and offers better renewal cost options.,"Competition, Pricing Discussion, Security"
+100,Our AI engine outperforms CompetitorY and offers better pricing model options.,Security
